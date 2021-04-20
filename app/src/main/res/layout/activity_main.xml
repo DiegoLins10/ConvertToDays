@@ -5,13 +5,13 @@
     android:orientation="vertical"
     android:padding="16dp"
     tools:context=".MainActivity"
-    android:background="@color/Accent">
+    android:background="@color/purple_200">
 
     <EditText
         android:id="@+id/txt_Ano"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Digite a Idade - Ano(s)"
+        android:hint="Digite a Idade em anos - Ano(s)"
         android:inputType="number"
         android:textAlignment="center"
         android:gravity="center_horizontal" />
@@ -20,7 +20,7 @@
         android:id="@+id/txt_Mes"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Digite a Idade - Mes(es)"
+        android:hint="Digite os meses - Mes(es)"
         android:inputType="number"
         android:textAlignment="center"
         android:gravity="center_horizontal" />
@@ -28,7 +28,7 @@
         android:id="@+id/txt_Dia"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Digite a Idade - Dia(s)"
+        android:hint="Digite os dias - Dia(s)"
         android:inputType="number"
         android:textAlignment="center"
         android:gravity="center_horizontal" />
