@@ -3,6 +3,7 @@
 ### Disciplina – Programação para dispositivos moveis – Prof. Marcos Vasconcelos
 
 - Diego Fernandes Lins
+- Gustavo Lino
 
 ### Resumo
 Um aplicativo usando Android Studio que converte a idade(tempo) que o usuario digitar para dias.
