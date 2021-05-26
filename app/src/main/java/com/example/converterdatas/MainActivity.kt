@@ -43,7 +43,7 @@ class MainActivity : AppCompatActivity() {
                     val resultado: Int
                     resultado = ano * 360 + mes * 30 + dia
                     //saida
-                    txt_Resultado.text = "Voce tem $resultado dia(s)"
+                    txt_Resultado.text = "Voce tem $resultado dia(s) de vida"
                     txt_Ano.text.clear()
                     txt_Mes.text.clear()
                     txt_Dia.text.clear()
